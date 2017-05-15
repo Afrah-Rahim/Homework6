@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=coefficient\ degree
+comment0.target=Term(int,\ int)
+comment0.text=\r\nCreates\ a\ term\r\n\r\n@param\ coefficient\ -\ coefficient\ of\ Term\r\n@param\ degree\ -\ degree\ of\ Term\r\n@return\ Term\r\n
+comment1.params=t1\ t2
+comment1.target=Term\ add(Term,\ Term)
+comment1.text=\r\nTakes\ two\ terms\ and\ adds\ them\ together.\r\n\r\n@param\ t1\ -\ first\ term\ to\ add\r\n@param\ t2\ -\ second\ term\ to\ add\r\n@return\ Term\ a\ new\ Term.\r\n
+comment2.params=t
+comment2.target=int\ compareTo(Term)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=aList
+comment0.target=int\ max(ListInterface)
+comment0.text=\r\n\ Max\:\ Finds\ the\ maximum\ value\ in\ a\ list\r\n\ Precondition\:\ a\ list\ of\ integer\ values\r\n\ Postcondition\:\ returns\ the\ maximum\ value\r\n\ @Param\:\ the\ list\r\n
+comment1.params=aList\ i\ j
+comment1.target=void\ swap(ListInterface,\ int,\ int)
+comment1.text=\r\n\ swap\:\ Swaps\ two\ values\ within\ a\ list\r\n\ Precondition\:\ a\ list\ of\ integers\r\n\ Postcondition\:\ prints\ statements\ stating\ change\r\n\ @Params\:\ two\ indexes\ as\ well\ as\ the\ list\ they\ are\ in\r\n
+comment2.params=aList
+comment2.target=void\ reverse(ListInterface)
+comment2.text=\r\n\ reverse\:\ reverses\ the\ list\r\n\ Precondition\:\ a\ list\ of\ integer\ values\r\n\ Postcondition\:\ none\r\n\ @Param\:\ The\ list\r\n
+comment3.params=aList
+comment3.target=void\ currentList(ListInterface)
+comment3.text=\r\n\ currentList\:\ prints\ the\ current\ values\ of\ the\ list\r\n\ Precondition\:\ a\ list\ of\ integers\r\n\ @Param\:\ a\ list\r\n
+comment4.params=aList\ a
+comment4.target=void\ addHead(ListInterface,\ int)
+comment4.text=\r\n\ addHead\:\ adds\ a\ number\ to\ the\ front\ of\ the\ list\ making\ that\ number\ the\ new\ head\r\n\ @Param\:\ the\ list\ and\ the\ integer\ to\ add\r\n
+comment5.params=aList
+comment5.target=void\ removeHead(ListInterface)
+comment5.text=\r\n\ removeHead\:\ Removes\ the\ number\ from\ the\ front\ of\ the\ list,\ making\ the\ next\ number\ the\ new\ head\r\n\ @Param\:\ the\ list\r\n
+comment6.params=aList\ a
+comment6.target=void\ addTail(ListInterface,\ int)
+comment6.text=\r\n\ addTail\:\ adds\ a\ number\ to\ the\ back\ of\ the\ list\ making\ that\ number\ the\ new\ tail\r\n\ @Param\:\ the\ list\ and\ the\ int\ to\ add\r\n
+comment7.params=aList
+comment7.target=void\ removeTail(ListInterface)
+comment7.text=\r\n\ removeTail\:\ Removes\ the\ number\ from\ the\ back\ of\ the\ list,\ making\ the\ next\ number\ the\ new\ tail\r\n\ @Param\:\ the\ list\r\n
+numComments=8
